@@ -17,7 +17,7 @@ from git.exc import GitCommandError, InvalidGitRepositoryError, NoSuchPathError
 
 from . import get_string
 
-UPSTREAM_REPO_URL = "https://github.com/loverboyXD/Scorpion-userbot"
+UPSTREAM_REPO_URL = "https://github.com/loverboyXD/Scorpion"
 requirements_path = path.join(
     path.dirname(path.dirname(path.dirname(__file__))), "requirements.txt"
 )
